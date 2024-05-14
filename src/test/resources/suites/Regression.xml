@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="regression">
+    <suite-files>
+        <suite-file path="./investor/InvestorLogin.xml"></suite-file>
+        <!-- You can add more suite files here if needed -->
+    </suite-files>
+</suite>
